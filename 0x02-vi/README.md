@@ -1,0 +1,1 @@
+This dir contains vi basics
