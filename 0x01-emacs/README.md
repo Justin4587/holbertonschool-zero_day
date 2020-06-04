@@ -1,1 +1,1 @@
-Basics of emacs. 
+Basics of emacs
